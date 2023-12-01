@@ -1,9 +1,10 @@
 # C-Lab
-assignment given by the sir
+Questions of assignment given by the sir are uploaded here -
+https://drive.google.com/file/d/1iW0Dd8MRuigyMxZvewuceH_yRGePJp9q/view?usp=sharing
 
 Questions of lab:-
 
-1 wap tp display fibonaci sequence
+1 wap to display fibonnaci sequence
   wap to print half pyramid of *
   wap to find factorail of number
   wap tp find max element in an array
